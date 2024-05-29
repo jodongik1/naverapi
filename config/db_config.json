@@ -1,0 +1,7 @@
+{
+    "dbname": "your_dbname",
+    "user": "your_username",
+    "password": "your_password",
+    "host": "your_host",
+    "port": "your_port"
+}
